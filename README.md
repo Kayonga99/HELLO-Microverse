@@ -2,7 +2,7 @@
 
 > This project is about setting up linters and creating a hello-microverse page.
 
-![screenshot](./photos/screenshot.png)
+![screenshot](./photos/shot.png)
 
 Additional description about the project and its features.
 
