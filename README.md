@@ -1,15 +1,12 @@
 # Hello-Microverse
 
-
-# Project Name
--Microverse Hello
-> One paragraph statement about the project.
+> This project is about setting up linters and creating a hello-microverse page.
 
 ![screenshot](./photos/screenshot.png)
 
 Additional description about the project and its features.
 
-## Built With
+## Built With 
 
 - HTML
 - CSS
@@ -18,29 +15,23 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+```
+git clone git@github.com:Kayonga99/HELLO-Microverse.git
 
-### Setup
+cd HELLO-Microverse
 
-### Install
+open in live sever
+```
 
-### Usage
 
-### Run tests
-
-### Deployment
 
 
 
 ## Author
 
-👤 **Author1**
+👤 **Kayonga**
 
 - GitHub: [@Kayonga99](https://github.com/Kayonga99)
 - Twitter: [@KayongaChiteta3](https://twitter.com/KayongaChiteta3?t=gfILCjmltzGRZOx6FZ8-nQ&s=08)
